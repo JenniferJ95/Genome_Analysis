@@ -13,6 +13,6 @@ module load bioinf-tools
 module load FastQC
 
 # Your commands
-fastqc -o /home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_rna_raw -f fastq *.fastq.gz
-fastqc -o /home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_rna_trimmed -f fastq *.fastq.gz
-fastqc -o /home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_dna -f fastq *.fastq.gz
+fastqc -o /home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_rna_raw -f fastq /home/jennij/Genome_Analysis/data/rna_data/raw_data/*.fastq.gz
+fastqc -o /home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_rna_trimmed -f fastq /home/jennij/Genome_Analysis/data/rna_data/trimmed_data/*.fastq.gz
+fastqc -o /home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_dna -f fastq /home/jennij/Genome_Analysis/data/dna_data/*.fastq.gz
