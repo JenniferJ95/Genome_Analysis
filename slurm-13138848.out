@@ -1,0 +1,1499 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"bioinf-tools"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "bioinf-tools"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: These module(s) or extension(s) exist
+but cannot be loaded as requested: "FastQC"
+   Try: "module spider FastQC" to see how to load the module(s).
+
+
+
+Started analysis of sel2_SRR1719266.1.fastq.gz
+Approx 5% complete for sel2_SRR1719266.1.fastq.gz
+Approx 10% complete for sel2_SRR1719266.1.fastq.gz
+Approx 15% complete for sel2_SRR1719266.1.fastq.gz
+Approx 20% complete for sel2_SRR1719266.1.fastq.gz
+Approx 25% complete for sel2_SRR1719266.1.fastq.gz
+Approx 30% complete for sel2_SRR1719266.1.fastq.gz
+Approx 35% complete for sel2_SRR1719266.1.fastq.gz
+Approx 40% complete for sel2_SRR1719266.1.fastq.gz
+Approx 45% complete for sel2_SRR1719266.1.fastq.gz
+Approx 50% complete for sel2_SRR1719266.1.fastq.gz
+Approx 55% complete for sel2_SRR1719266.1.fastq.gz
+Approx 60% complete for sel2_SRR1719266.1.fastq.gz
+Approx 65% complete for sel2_SRR1719266.1.fastq.gz
+Approx 70% complete for sel2_SRR1719266.1.fastq.gz
+Approx 75% complete for sel2_SRR1719266.1.fastq.gz
+Approx 80% complete for sel2_SRR1719266.1.fastq.gz
+Approx 85% complete for sel2_SRR1719266.1.fastq.gz
+Approx 90% complete for sel2_SRR1719266.1.fastq.gz
+Approx 95% complete for sel2_SRR1719266.1.fastq.gz
+Analysis complete for sel2_SRR1719266.1.fastq.gz
+Started analysis of sel2_SRR1719266.2.fastq.gz
+Approx 5% complete for sel2_SRR1719266.2.fastq.gz
+Approx 10% complete for sel2_SRR1719266.2.fastq.gz
+Approx 15% complete for sel2_SRR1719266.2.fastq.gz
+Approx 20% complete for sel2_SRR1719266.2.fastq.gz
+Approx 25% complete for sel2_SRR1719266.2.fastq.gz
+Approx 30% complete for sel2_SRR1719266.2.fastq.gz
+Approx 35% complete for sel2_SRR1719266.2.fastq.gz
+Approx 40% complete for sel2_SRR1719266.2.fastq.gz
+Approx 45% complete for sel2_SRR1719266.2.fastq.gz
+Approx 50% complete for sel2_SRR1719266.2.fastq.gz
+Approx 55% complete for sel2_SRR1719266.2.fastq.gz
+Approx 60% complete for sel2_SRR1719266.2.fastq.gz
+Approx 65% complete for sel2_SRR1719266.2.fastq.gz
+Approx 70% complete for sel2_SRR1719266.2.fastq.gz
+Approx 75% complete for sel2_SRR1719266.2.fastq.gz
+Approx 80% complete for sel2_SRR1719266.2.fastq.gz
+Approx 85% complete for sel2_SRR1719266.2.fastq.gz
+Approx 90% complete for sel2_SRR1719266.2.fastq.gz
+Approx 95% complete for sel2_SRR1719266.2.fastq.gz
+Analysis complete for sel2_SRR1719266.2.fastq.gz
+Started analysis of sel2_SRR1719013.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719013.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719013.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719013.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR1719013.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR1719013.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719013.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR1719013.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR1719013.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR1719013.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719013.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719013.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719013.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719013.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719013.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719013.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719014.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719014.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719014.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719014.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719014.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR1719014.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR1719014.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719014.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719014.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR1719014.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR1719014.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR1719014.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719014.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719014.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719014.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719014.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719014.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719014.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719015.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719015.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719015.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719015.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719015.trim_1U.fastq.gz
+Approx 25% complete for sel2_SRR1719015.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719015.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR1719015.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR1719015.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR1719015.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR1719015.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719015.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719015.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719015.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719015.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719015.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719015.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719016.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719016.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719016.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719016.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719016.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR1719016.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719016.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719016.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR1719016.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719016.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR1719016.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR1719016.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719016.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719016.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719016.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719016.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719016.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719016.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719017.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719017.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719017.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719017.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR1719017.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR1719017.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719017.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719017.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719017.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR1719017.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719017.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719017.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719017.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719017.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719017.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719017.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719018.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719018.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719018.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719018.trim_1U.fastq.gz
+Approx 5% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 25% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 40% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR1719018.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719018.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719018.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719018.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719018.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719018.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719018.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719204.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719204.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719204.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719204.trim_1U.fastq.gz
+Approx 5% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 40% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR1719204.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719204.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719204.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719204.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719204.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719204.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719204.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719206.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719206.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719206.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719206.trim_1U.fastq.gz
+Approx 5% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 25% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR1719206.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719206.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719206.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719206.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719206.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719206.trim_2U.fastq.gz
+Approx 20% complete for sel2_SRR1719206.trim_2U.fastq.gz
+Approx 40% complete for sel2_SRR1719206.trim_2U.fastq.gz
+Approx 65% complete for sel2_SRR1719206.trim_2U.fastq.gz
+Approx 85% complete for sel2_SRR1719206.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719206.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719207.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719207.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719207.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719207.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719207.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR1719207.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719207.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719207.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719207.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719207.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR1719207.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR1719207.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719207.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719207.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719207.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719207.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719207.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719207.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719208.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719208.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719208.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719208.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719208.trim_1U.fastq.gz
+Approx 25% complete for sel2_SRR1719208.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719208.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR1719208.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR1719208.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR1719208.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR1719208.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719208.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719208.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719208.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719208.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719208.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719208.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719209.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Approx 100% complete for sel2_SRR1719209.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719209.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719209.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR1719209.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR1719209.trim_1U.fastq.gz
+Approx 40% complete for sel2_SRR1719209.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719209.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719209.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR1719209.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719209.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719209.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719209.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719209.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719209.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719209.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719211.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719211.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719211.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719211.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719211.trim_1U.fastq.gz
+Approx 25% complete for sel2_SRR1719211.trim_1U.fastq.gz
+Approx 40% complete for sel2_SRR1719211.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719211.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719211.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR1719211.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719211.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719211.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719211.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719211.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719211.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719211.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719212.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719212.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719212.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719212.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719212.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR1719212.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR1719212.trim_1U.fastq.gz
+Approx 40% complete for sel2_SRR1719212.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR1719212.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR1719212.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719212.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR1719212.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR1719212.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR1719212.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719212.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719212.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719212.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719212.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719212.trim_2U.fastq.gz
+Approx 25% complete for sel2_SRR1719212.trim_2U.fastq.gz
+Approx 55% complete for sel2_SRR1719212.trim_2U.fastq.gz
+Approx 85% complete for sel2_SRR1719212.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719212.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719213.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719213.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719213.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719213.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719213.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR1719213.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719213.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719213.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719213.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719213.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR1719213.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR1719213.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719213.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719213.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719213.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719213.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719213.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719213.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719214.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719214.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719214.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719214.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719214.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR1719214.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR1719214.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719214.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719214.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR1719214.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR1719214.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR1719214.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719214.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719214.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719214.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719214.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719214.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719214.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719241.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719241.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719241.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719241.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR1719241.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719241.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR1719241.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR1719241.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR1719241.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719241.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719241.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719241.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719241.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719241.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719241.trim_2U.fastq.gz
+Started analysis of sel2_SRR1719242.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719242.trim_1P.fastq.gz
+Analysis complete for sel2_SRR1719242.trim_1P.fastq.gz
+Started analysis of sel2_SRR1719242.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR1719242.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR1719242.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719242.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR1719242.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR1719242.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR1719242.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR1719242.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR1719242.trim_1U.fastq.gz
+Analysis complete for sel2_SRR1719242.trim_1U.fastq.gz
+Started analysis of sel2_SRR1719242.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719242.trim_2P.fastq.gz
+Analysis complete for sel2_SRR1719242.trim_2P.fastq.gz
+Started analysis of sel2_SRR1719242.trim_2U.fastq.gz
+Analysis complete for sel2_SRR1719242.trim_2U.fastq.gz
+Started analysis of sel2_SRR5819794.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR5819794.trim_1P.fastq.gz
+Analysis complete for sel2_SRR5819794.trim_1P.fastq.gz
+Started analysis of sel2_SRR5819794.trim_1U.fastq.gz
+Approx 5% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 25% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 40% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR5819794.trim_1U.fastq.gz
+Analysis complete for sel2_SRR5819794.trim_1U.fastq.gz
+Started analysis of sel2_SRR5819794.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR5819794.trim_2P.fastq.gz
+Analysis complete for sel2_SRR5819794.trim_2P.fastq.gz
+Started analysis of sel2_SRR5819794.trim_2U.fastq.gz
+Approx 5% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 10% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 15% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 20% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 25% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 30% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 40% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 45% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 50% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 55% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 60% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 70% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 75% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 80% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 85% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 90% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Approx 95% complete for sel2_SRR5819794.trim_2U.fastq.gz
+Analysis complete for sel2_SRR5819794.trim_2U.fastq.gz
+Started analysis of sel2_SRR5819795.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR5819795.trim_1P.fastq.gz
+Analysis complete for sel2_SRR5819795.trim_1P.fastq.gz
+Started analysis of sel2_SRR5819795.trim_1U.fastq.gz
+Approx 5% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR5819795.trim_1U.fastq.gz
+Analysis complete for sel2_SRR5819795.trim_1U.fastq.gz
+Started analysis of sel2_SRR5819795.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR5819795.trim_2P.fastq.gz
+Analysis complete for sel2_SRR5819795.trim_2P.fastq.gz
+Started analysis of sel2_SRR5819795.trim_2U.fastq.gz
+Approx 5% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 10% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 15% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 20% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 25% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 30% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 35% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 40% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 45% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 50% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 55% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 60% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 65% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 70% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 75% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 80% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 85% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 90% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Approx 95% complete for sel2_SRR5819795.trim_2U.fastq.gz
+Analysis complete for sel2_SRR5819795.trim_2U.fastq.gz
+Started analysis of sel2_SRR5819796.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR5819796.trim_1P.fastq.gz
+Analysis complete for sel2_SRR5819796.trim_1P.fastq.gz
+Started analysis of sel2_SRR5819796.trim_1U.fastq.gz
+Approx 5% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 25% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 40% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR5819796.trim_1U.fastq.gz
+Analysis complete for sel2_SRR5819796.trim_1U.fastq.gz
+Started analysis of sel2_SRR5819796.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR5819796.trim_2P.fastq.gz
+Analysis complete for sel2_SRR5819796.trim_2P.fastq.gz
+Started analysis of sel2_SRR5819796.trim_2U.fastq.gz
+Approx 5% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 10% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 15% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 20% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 25% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 30% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 35% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 40% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 45% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 50% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 55% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 60% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 65% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 70% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 75% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 80% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 85% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 90% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Approx 95% complete for sel2_SRR5819796.trim_2U.fastq.gz
+Analysis complete for sel2_SRR5819796.trim_2U.fastq.gz
+Started analysis of sel2_SRR5819797.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR5819797.trim_1P.fastq.gz
+Analysis complete for sel2_SRR5819797.trim_1P.fastq.gz
+Started analysis of sel2_SRR5819797.trim_1U.fastq.gz
+Approx 5% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 25% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 40% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR5819797.trim_1U.fastq.gz
+Analysis complete for sel2_SRR5819797.trim_1U.fastq.gz
+Started analysis of sel2_SRR5819797.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR5819797.trim_2P.fastq.gz
+Analysis complete for sel2_SRR5819797.trim_2P.fastq.gz
+Started analysis of sel2_SRR5819797.trim_2U.fastq.gz
+Approx 5% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 10% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 15% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 20% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 25% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 30% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 35% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 40% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 45% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 50% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 55% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 60% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 65% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 70% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 75% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 80% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 85% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 90% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Approx 95% complete for sel2_SRR5819797.trim_2U.fastq.gz
+Analysis complete for sel2_SRR5819797.trim_2U.fastq.gz
+Started analysis of sel2_SRR5819798.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR5819798.trim_1P.fastq.gz
+Analysis complete for sel2_SRR5819798.trim_1P.fastq.gz
+Started analysis of sel2_SRR5819798.trim_1U.fastq.gz
+Approx 5% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 25% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 40% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR5819798.trim_1U.fastq.gz
+Analysis complete for sel2_SRR5819798.trim_1U.fastq.gz
+Started analysis of sel2_SRR5819798.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR5819798.trim_2P.fastq.gz
+Analysis complete for sel2_SRR5819798.trim_2P.fastq.gz
+Started analysis of sel2_SRR5819798.trim_2U.fastq.gz
+Approx 5% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 10% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 15% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 20% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 25% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 30% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 35% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 40% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 45% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 50% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 55% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 60% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 65% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 70% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 75% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 80% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 85% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 90% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Approx 95% complete for sel2_SRR5819798.trim_2U.fastq.gz
+Analysis complete for sel2_SRR5819798.trim_2U.fastq.gz
+Started analysis of sel2_SRR5819799.trim_1P.fastq.gz
+Approx 5% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 10% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 15% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 20% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 25% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 30% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 35% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 40% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 45% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 50% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 55% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 60% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 65% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 70% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 75% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 80% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 85% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 90% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Approx 95% complete for sel2_SRR5819799.trim_1P.fastq.gz
+Analysis complete for sel2_SRR5819799.trim_1P.fastq.gz
+Started analysis of sel2_SRR5819799.trim_1U.fastq.gz
+Approx 5% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 10% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 15% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 20% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 25% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 30% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 35% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 40% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 45% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 50% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 55% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 60% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 65% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 70% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 75% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 80% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 85% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 90% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Approx 95% complete for sel2_SRR5819799.trim_1U.fastq.gz
+Analysis complete for sel2_SRR5819799.trim_1U.fastq.gz
+Started analysis of sel2_SRR5819799.trim_2P.fastq.gz
+Approx 5% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 10% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 15% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 20% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 25% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 30% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 35% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 40% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 45% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 50% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 55% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 60% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 65% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 70% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 75% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 80% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 85% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 90% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Approx 95% complete for sel2_SRR5819799.trim_2P.fastq.gz
+Analysis complete for sel2_SRR5819799.trim_2P.fastq.gz
+Started analysis of sel2_SRR5819799.trim_2U.fastq.gz
+Approx 5% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 10% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 15% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 20% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 25% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 30% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 35% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 40% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 45% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 50% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 55% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 60% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 65% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 70% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 75% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 80% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 85% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 90% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Approx 95% complete for sel2_SRR5819799.trim_2U.fastq.gz
+Analysis complete for sel2_SRR5819799.trim_2U.fastq.gz
