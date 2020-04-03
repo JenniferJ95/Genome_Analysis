@@ -1,0 +1,24 @@
+[INFO   ]         multiqc : This is MultiQC v1.8
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_rna_raw
+[INFO   ]          fastqc : Found 2 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : ../../../../home/jennij/Genome_Analysis/analyses/01_preprocessing/multiqc/multiqc_rna_raw/multiqc_report.html
+[INFO   ]         multiqc : Data        : ../../../../home/jennij/Genome_Analysis/analyses/01_preprocessing/multiqc/multiqc_rna_raw/multiqc_data
+[INFO   ]         multiqc : MultiQC complete
+[INFO   ]         multiqc : This is MultiQC v1.8
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_rna_trimmed
+[INFO   ]          fastqc : Found 68 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : ../../../../home/jennij/Genome_Analysis/analyses/01_preprocessing/multiqc/multiqc_rna_trimmed/multiqc_report.html
+[INFO   ]         multiqc : Data        : ../../../../home/jennij/Genome_Analysis/analyses/01_preprocessing/multiqc/multiqc_rna_trimmed/multiqc_data
+[INFO   ]         multiqc : MultiQC complete
+[INFO   ]         multiqc : This is MultiQC v1.8
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_dna
+[INFO   ]          fastqc : Found 24 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : ../../../../home/jennij/Genome_Analysis/analyses/01_preprocessing/multiqc/multiqc_dna/multiqc_report.html
+[INFO   ]         multiqc : Data        : ../../../../home/jennij/Genome_Analysis/analyses/01_preprocessing/multiqc/multiqc_dna/multiqc_data
+[INFO   ]         multiqc : MultiQC complete

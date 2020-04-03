@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	sel2_SRR1719266.1	/home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_rna_raw/sel2_SRR1719266.1_fastqc.zip
+FastQC	all_sections	sel2_SRR1719266.2	/home/jennij/Genome_Analysis/analyses/01_preprocessing/fastqc/fastqc_rna_raw/sel2_SRR1719266.2_fastqc.zip
