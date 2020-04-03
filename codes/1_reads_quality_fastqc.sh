@@ -9,7 +9,7 @@
 #SBATCH --mail-user jennifer.johansson.8786@student.uu.se
 
 # Load modules
-module load bioinf-tools
+module load bioinfo-tools
 module load FastQC
 
 # Your commands
