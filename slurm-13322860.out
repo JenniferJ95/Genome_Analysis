@@ -1,0 +1,57 @@
+Started analysis of sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 5% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 10% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 15% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 20% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 25% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 30% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 35% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 40% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 45% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 50% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 55% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 60% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 65% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 70% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 75% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 80% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 85% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 90% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Approx 95% complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Analysis complete for sel2_SRR1719266.trimmed_1P.fastq.gz
+Started analysis of sel2_SRR1719266.trimmed_1U.fastq.gz
+Approx 35% complete for sel2_SRR1719266.trimmed_1U.fastq.gz
+Approx 75% complete for sel2_SRR1719266.trimmed_1U.fastq.gz
+Analysis complete for sel2_SRR1719266.trimmed_1U.fastq.gz
+Started analysis of sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 5% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 10% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 15% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 20% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 25% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 30% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 35% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 40% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 45% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 50% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 55% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 60% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 65% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 70% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 75% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 80% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 85% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 90% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Approx 95% complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Analysis complete for sel2_SRR1719266.trimmed_2P.fastq.gz
+Started analysis of sel2_SRR1719266.trimmed_2U.fastq.gz
+Analysis complete for sel2_SRR1719266.trimmed_2U.fastq.gz
+Failed to process file sel2_SRR1719266.trimmed_2U.fastq.gz
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at uk.ac.babraham.FastQC.Modules.SequenceLengthDistribution.calculateDistribution(SequenceLengthDistribution.java:101)
+	at uk.ac.babraham.FastQC.Modules.SequenceLengthDistribution.raisesError(SequenceLengthDistribution.java:190)
+	at uk.ac.babraham.FastQC.Report.HTMLReportArchive.startDocument(HTMLReportArchive.java:336)
+	at uk.ac.babraham.FastQC.Report.HTMLReportArchive.<init>(HTMLReportArchive.java:84)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.analysisComplete(OfflineRunner.java:178)
+	at uk.ac.babraham.FastQC.Analysis.AnalysisRunner.run(AnalysisRunner.java:110)
+	at java.lang.Thread.run(Thread.java:748)
