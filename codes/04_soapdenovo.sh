@@ -13,4 +13,4 @@ module load bioinfo-tools
 module load soapdenovo
 
 # Commands
-SOAPdenovo-127mer all -p 2 -s /home/jennij/Genome_Analysis/analyses/02_genome_assembly/assembly.config -K 49 -R -o SOAPdenovo_output_K49 1>ass.log 2>ass.err
+SOAPdenovo-127mer all -p 2 -s /home/jennij/Genome_Analysis/analyses/02_genome_assembly/assembly.config -K 49 -R -o /home/jennij/Genome_Analysis/analyses/02_genome_assembly/SOAPdenovo_output_K49 1>ass.log 2>ass.err
