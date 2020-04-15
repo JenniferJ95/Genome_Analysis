@@ -1,0 +1,19 @@
+# Create links to original data 
+ln -s /proj/g2020008/2_Eckalbar_2016/sel2/rna_seq_data/raw raw_data
+ln -s /proj/g2020008/2_Eckalbar_2016/sel2/rna_seq_data/trimmed trimmed_data
+ln -s /proj/g2020008/2_Eckalbar_2016/sel2/wgs_data dna_data
+
+# Command to run the bash for FastQC
+sbatch /home/jennij/Genome_Analysis/codes/01_reads_quality_fastqc.sh 
+
+# Command to run the bash for MultiQC
+sbatch /home/jennij/Genome_Analysis/codes/02_reads_quality_multiqc.sh
+
+# Commands to connect to a working node, load the modules and run Trimmomatic
+salloc -A g2020008 -p core -n 2 -t 00:59:00
+module load bioinfo-tools
+module load trimmomatic
+java -jar $TRIMMOMATIC_HOME/trimmomatic.jar PE -trimlog rna_seq_trimLogFile /home/jennij/Genome_Analysis/data/rna_data/raw_data/sel2_SRR1719266.1.fastq.gz /home/jennij/Genome_Analysis/data/rna_data/raw_data/sel2_SRR1719266.2.fastq.gz sel2_SRR1719266.trimmed_1P.fastq.gz sel2_SRR1719266.trimmed_1U.fastq.gz sel2_SRR1719266.trimmed_2P.fastq.gz sel2_SRR1719266.trimmed_2U.fastq.gz ILLUMINACLIP:$TRIMMOMATIC_HOME/adapters/TruSeq3-PE.fa:2:30:10 LEADING:17 TRAILING:17
+
+# Command to run the bash for FastQC, for the newly trimmed files from Trimmomatic
+sbatch /home/jennij/Genome_Analysis/codes/03_reads_quality_fastqc.sh
