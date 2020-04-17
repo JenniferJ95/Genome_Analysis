@@ -1,2 +1,4 @@
 ass.log 
-analyses/02_genome_assembly/SOAPdenovo_output_K49.*
+analyses/02_genome_assembly/soapdenovo/SOAPdenovo_output_K49.*
+analyses/02_genome_assembly/nucmer/sel2_NW_015504334.fna
+analyses/02_genome_assembly/nucmer/out.delta
