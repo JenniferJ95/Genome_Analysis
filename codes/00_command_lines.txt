@@ -17,3 +17,9 @@ java -jar $TRIMMOMATIC_HOME/trimmomatic.jar PE -trimlog rna_seq_trimLogFile /hom
 
 # Command to run the bash for FastQC, for the newly trimmed files from Trimmomatic
 sbatch /home/jennij/Genome_Analysis/codes/03_reads_quality_fastqc.sh
+
+# Command to look if the file that did not get an html file from FastQC was empty
+zcat sel2_SRR1719266.trimmed_2U.fastq.gz 
+
+# Command to run bash file for soapdenovo
+sbatch --reservation=g2020008_15 /home/jennij/Genome_Analysis/codes/04_soapdenovo.sh 
