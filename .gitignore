@@ -15,5 +15,7 @@ analyses/02_genome_assembly/mummerplot/run_1/out.gp
 analyses/02_genome_assembly/mummerplot/run_2/out.fplot
 analyses/02_genome_assembly/mummerplot/run_2/out.rplot
 analyses/02_genome_assembly/mummerplot/run_2/out.gp
-
-
+analyses/02_genome_assembly/mummerplot/run_4/out.filter
+analyses/02_genome_assembly/mummerplot/run_4/out.fplot
+analyses/02_genome_assembly/mummerplot/run_4/out.gp
+analyses/02_genome_assembly/mummerplot/run_4/out.rplot
