@@ -2,4 +2,6 @@ ass.log
 analyses/02_genome_assembly/soapdenovo/SOAPdenovo_output_K49.*
 analyses/02_genome_assembly/nucmer/sel2_NW_015504334.fna
 analyses/02_genome_assembly/nucmer/out.delta
-analyses/02_genome_assembly/mummerplot/out.*
+analyses/02_genome_assembly/mummerplot/out.fplot
+analyses/02_genome_assembly/mummerplot/out.rplot
+analyses/02_genome_assembly/mummerplot/out.gp
