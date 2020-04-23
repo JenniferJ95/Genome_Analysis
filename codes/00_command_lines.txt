@@ -23,3 +23,12 @@ zcat sel2_SRR1719266.trimmed_2U.fastq.gz
 
 # Command to run bash file for soapdenovo
 sbatch --reservation=g2020008_15 /home/jennij/Genome_Analysis/codes/04_soapdenovo.sh 
+
+# Commands to run nucmer
+salloc -A g2020008 -p core -n 2 -t 02:00:00 --reservation=g2020008_17
+module load bioinfo-tools
+module load MUMmer
+nucmer /home/jennij/Genome_Analysis/analyses/02_genome_assembly/nucmer/sel2_NW_015504334.fna /home/jennij/Genome_Analysis/analyses/02_genome_assembly/soapdenovo/SOAPdenovo_output_K49.contig
+
+# Command to run bash file for mummerplot
+sbatch /home/jennij/Genome_Analysis/codes/05_mummerplot.sh 
