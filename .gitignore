@@ -7,14 +7,14 @@ analyses/02_genome_assembly/soapdenovo/clear_SOAPdenovo_output_K49.contig
 analyses/02_genome_assembly/soapdenovo/sequence_cleaner.py
 
 analyses/02_genome_assembly/nucmer/sel2_NW_015504334.fna
-analyses/02_genome_assembly/nucmer/run_1/out.delta
-analyses/02_genome_assembly/nucmer_run_2/out.delta
+analyses/02_genome_assembly/nucmer
 
 analyses/02_genome_assembly/mummerplot/run_1/out.fplot
 analyses/02_genome_assembly/mummerplot/run_1/out.rplot
 analyses/02_genome_assembly/mummerplot/run_1/out.gp
 analyses/02_genome_assembly/mummerplot/run_2/out.fplot
 analyses/02_genome_assembly/mummerplot/run_2/out.rplot
+analyses/02_genome_assembly/mummerplot/run_2/out.filter
 analyses/02_genome_assembly/mummerplot/run_2/out.gp
 analyses/02_genome_assembly/mummerplot/run_4/out.filter
 analyses/02_genome_assembly/mummerplot/run_4/out.fplot
