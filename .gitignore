@@ -17,3 +17,5 @@ analyses/02_genome_assembly/mummerplot/run_4/out.filter
 analyses/02_genome_assembly/mummerplot/run_4/out.fplot
 analyses/02_genome_assembly/mummerplot/run_4/out.gp
 analyses/02_genome_assembly/mummerplot/run_4/out.rplot
+
+data/all_rna_trimmed/sel2_SRR1719*
