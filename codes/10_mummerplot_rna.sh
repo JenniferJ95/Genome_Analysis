@@ -13,6 +13,4 @@ module load bioinfo-tools
 module load MUMmer
 
 # Commands
-mummerplot --png --layout --filter *file to run mummerplot on*
-
-*file last time, remove this* /home/jennij/Genome_Analysis/analyses/02_genome_assembly/nucmer/run_2/out.delta
+mummerplot --png --layout --filter /home/jennij/Genome_Analysis/analyses/03_rna_assembly/nucmer/out.delta

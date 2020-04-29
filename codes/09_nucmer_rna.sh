@@ -13,8 +13,4 @@ module load bioinfo-tools
 module load MUMmer
 
 # Commands
-nucmer /home/jennij/Genome_Analysis/analyses/02_genome_assembly/nucmer/sel2_NW_015504334.fna *file to run nucmer on*
-
-*file last time nucmer* /home/jennij/Genome_Analysis/analyses/02_genome_assembly/soapdenovo/SOAPdenovo_output_K49.contig
-
-
+nucmer /home/jennij/Genome_Analysis/analyses/02_genome_assembly/nucmer/sel2_NW_015504334.fna /home/jennij/Genome_Analysis/analyses/03_rna_assembly/trinity/trinity_out_dir/Trinity-GG.fasta
