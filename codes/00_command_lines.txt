@@ -32,3 +32,20 @@ nucmer /home/jennij/Genome_Analysis/analyses/02_genome_assembly/nucmer/sel2_NW_0
 
 # Command to run bash file for mummerplot
 sbatch /home/jennij/Genome_Analysis/codes/05_mummerplot.sh 
+
+# Command to run bash file for bowtie2
+sbatch --reservation=g2020008_28 /home/jennij/Genome_Analysis/codes/06_bowtie2.sh
+
+# Command to run bash file for tophat
+sbatch --reservation=g2020008_28 /home/jennij/Genome_Analysis/codes/07_tophat.sh
+
+# Command to run bash file for trinity
+sbatch --reservation=g2020008_29 /home/jennij/Genome_Analysis/codes/08_trinity.sh 
+
+# Command to run bash file for nucmer for transcriptome assembly
+sbatch --reservation=g2020008_29 /home/jennij/Genome_Analysis/codes/09_nucmer_rna.sh
+
+# Command to run bash file for mummerplot for transcriptome assembly
+sbatch --reservation=g2020008_29 /home/jennij/Genome_Analysis/codes/10_mummerplot_rna.sh 
+
+
