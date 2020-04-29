@@ -19,3 +19,12 @@ analyses/02_genome_assembly/mummerplot/run_4/out.gp
 analyses/02_genome_assembly/mummerplot/run_4/out.rplot
 
 data/all_rna_trimmed/sel2_SRR1719*
+
+analyses/03_rna_assembly/mummerplot/out.filter
+analyses/03_rna_assembly/mummerplot/out.fplot
+analyses/03_rna_assembly/mummerplot/out.gp
+analyses/03_rna_assembly/mummerplot/out.rplot
+
+analyses/03_rna_assembly/nucmer/
+analyses/03_rna_assembly/tophat_before_trinity/
+analyses/03_rna_assembly/trinity/
