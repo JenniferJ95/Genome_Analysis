@@ -29,4 +29,8 @@ analyses/03_rna_assembly/nucmer/
 analyses/03_rna_assembly/tophat_before_trinity/
 analyses/03_rna_assembly/trinity/
 
-analyses/04_annotation/structural_annotation/maker2/
+analyses/04_annotation
+
+analyses/05_differential_expression
+
+data
