@@ -31,6 +31,9 @@ analyses/03_rna_assembly/trinity/
 
 analyses/04_annotation
 
-analyses/05_differential_expression
+analyses/05_differential_expression/htseq
+analyses/05_differential_expression/htseq_different_samples
+analyses/05_differential_expression/samtools
+analyses/05_differential_expression/tophat_different_samples
 
 data

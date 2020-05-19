@@ -1,0 +1,203 @@
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 8790 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:5:1108:16824:23199' aligned to NW_015504334.1:[260532,260632)/->.
+Warning: Mate pairing was ambiguous for 46 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:8:2316:9851:36498', 'first', 'NW_015504334.1', 177662, 'NW_015504334.1', 177699, 372).
+71833 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 9909 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:6:2203:13469:25786' aligned to NW_015504334.1:[429682,429782)/->.
+Warning: Mate pairing was ambiguous for 57 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:8:2312:6492:72920', 'first', 'NW_015504334.1', 132398, 'NW_015504334.1', 132451, 7389).
+82929 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 10521 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:6:1106:2462:40887' aligned to NW_015504334.1:[477160,477260)/->.
+Warning: Mate pairing was ambiguous for 89 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:6:2105:13445:76585', 'first', 'NW_015504334.1', 114481, 'NW_015504334.1', 114530, 11897).
+97716 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 10817 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:7:2310:5748:86574' aligned to NW_015504334.1:[1018964,1019064)/->.
+Warning: Mate pairing was ambiguous for 69 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:7:1213:3190:23109', 'first', 'NW_015504334.1', 132398, 'NW_015504334.1', 132452, 7390).
+84562 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 8433 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:5:2114:8928:94560' aligned to NW_015504334.1:[391274,391373)/+>.
+Warning: Mate pairing was ambiguous for 77 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:5:2308:18691:96833', 'first', 'NW_015504334.1', 114481, 'NW_015504334.1', 114541, 11919).
+74666 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 11773 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:395:D1RW8ACXX:4:2315:15681:3493' aligned to NW_015504334.1:[72183,72281)/+>.
+100000 SAM alignment record pairs processed.
+Warning: Mate pairing was ambiguous for 200 records; mate key for first such record: ('DJB775P1:395:D1RW8ACXX:4:1303:8201:7052', 'first', 'NW_015504334.1', 103330, 'NW_015504334.1', 104672, 10925).
+107514 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 11381 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:395:D1RW8ACXX:4:1103:8819:49621' aligned to NW_015504334.1:[980434,980534)/->.
+Warning: Mate pairing was ambiguous for 122 records; mate key for first such record: ('DJB775P1:395:D1RW8ACXX:4:1305:17828:47782', 'first', 'NW_015504334.1', 132398, 'NW_015504334.1', 132468, 7404).
+88254 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+100000 SAM alignment record pairs processed.
+Warning: Mate records missing for 19520 records; first such record: <SAM_Alignment object: Paired-end read 'DJB77P1:411:H0FA3ADXX:1:2107:8827:97678' aligned to NW_015504334.1:[2251340,2251440)/+>.
+Warning: Mate pairing was ambiguous for 133 records; mate key for first such record: ('DJB77P1:411:H0FA3ADXX:1:1109:17536:22358', 'first', 'NW_015504334.1', 114481, 'NW_015504334.1', 114558, 11936).
+158291 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 10767 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:6:2208:18395:92733' aligned to NW_015504334.1:[382079,382179)/->.
+Warning: Mate pairing was ambiguous for 77 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:5:2108:16940:91229', 'first', 'NW_015504334.1', 132398, 'NW_015504334.1', 132451, 7389).
+88648 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 9520 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:6:2102:15432:54431' aligned to NW_015504334.1:[593560,593660)/+>.
+Warning: Mate pairing was ambiguous for 195 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:8:2201:15782:68925', 'first', 'NW_015504334.1', 114481, 'NW_015504334.1', 114519, 11897).
+86015 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 8607 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:8:2308:19086:17113' aligned to NW_015504334.1:[261269,261369)/+>.
+Warning: Mate pairing was ambiguous for 47 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:5:1304:15734:12590', 'first', 'NW_015504334.1', 389821, 'NW_015504334.1', 401236, 13421).
+69226 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 14006 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:6:2109:16356:21849' aligned to NW_015504334.1:[386769,386869)/+>.
+Warning: Mate pairing was ambiguous for 85 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:7:1214:7558:57064', 'second', 'NW_015504334.1', 23770, 'NW_015504334.1', 23799, 3015).
+91553 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 12304 records; first such record: <SAM_Alignment object: Paired-end read 'DJB77P1:411:H0FA3ADXX:1:1101:11710:90276' aligned to NW_015504334.1:[502519,502568)/->.
+100000 SAM alignment record pairs processed.
+Warning: Mate pairing was ambiguous for 84 records; mate key for first such record: ('DJB77P1:411:H0FA3ADXX:1:1205:5350:93166', 'first', 'NW_015504334.1', 114248, 'NW_015504334.1', 114256, 233).
+104852 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 12685 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:5:2207:17947:54629' aligned to NW_015504334.1:[264448,264524)/+>.
+100000 SAM alignment record pairs processed.
+Warning: Mate pairing was ambiguous for 129 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:5:2202:4768:72679', 'first', 'NW_015504334.1', 114481, 'NW_015504334.1', 114524, 11902).
+102073 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 10596 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:8:2106:3974:31949' aligned to NW_015504334.1:[223679,223779)/+>.
+100000 SAM alignment record pairs processed.
+Warning: Mate pairing was ambiguous for 199 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:7:2210:14279:67019', 'first', 'NW_015504334.1', 114481, 'NW_015504334.1', 114518, 11896).
+101132 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 10081 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:8:1101:18726:67139' aligned to NW_015504334.1:[1197962,1198756)/+>.
+Warning: Mate pairing was ambiguous for 23 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:5:1215:17128:77421', 'first', 'NW_015504334.1', 389822, 'NW_015504334.1', 401263, 13447).
+56113 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 11305 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:8:1309:6050:80300' aligned to NW_015504334.1:[418777,418877)/->.
+Warning: Mate pairing was ambiguous for 72 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:7:1202:9520:31156', 'second', 'NW_015504334.1', 186751, 'NW_015504334.1', 186788, 1058).
+96153 SAM alignment pairs processed.
+100000 GFF lines processed.
+200000 GFF lines processed.
+300000 GFF lines processed.
+400000 GFF lines processed.
+500000 GFF lines processed.
+600000 GFF lines processed.
+700000 GFF lines processed.
+769388 GFF lines processed.
+Warning: Mate records missing for 13283 records; first such record: <SAM_Alignment object: Paired-end read 'DJB775P1:392:D1R59ACXX:7:2209:4646:97468' aligned to NW_015504334.1:[1390732,1390937)/->.
+Warning: Mate pairing was ambiguous for 44 records; mate key for first such record: ('DJB775P1:392:D1R59ACXX:5:2212:16789:93581', 'first', 'NW_015504334.1', 389822, 'NW_015504334.1', 401264, 13448).
+62486 SAM alignment pairs processed.
