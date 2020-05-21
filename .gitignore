@@ -38,3 +38,5 @@ analyses/05_differential_expression/tophat_different_samples
 analyses/05_differential_expression/tophat_different_samples_2
 
 data
+
+analyses/05_differential_expression/results_not_used
